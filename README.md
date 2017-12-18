@@ -13,6 +13,7 @@ Useful if you have two different jobs for Master and PR's of a repository.
 casperjs test warning-threshold-sync.js --jenkins_url="http://yourjenkinsurl.com" --username="jenkins_user" --pass="pass" --reference_job="reference-job" --modify_job="modifiy_job"
 ```
 
+Example images and shell script can be found in the repository.
 
 ### Issue Reference: ###
 
