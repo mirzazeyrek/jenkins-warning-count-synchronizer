@@ -1,5 +1,5 @@
 /**
- * Created by mirzaartbees on 12.6.2017.
+ * Created by mirzazeyrek on 12.6.2017.
  */
 var jenkins_url = casper.cli.get("jenkins_url");
 
