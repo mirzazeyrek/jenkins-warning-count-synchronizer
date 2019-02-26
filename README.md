@@ -1,5 +1,9 @@
 # README #
 
+### IMPORTANT UPDATE ###
+
+After the release of Next Generation Warnings plug-in of Jenkins this workaround script became redundant. Please see https://wiki.jenkins.io/display/JENKINS/Warnings+Next+Generation+Plugin and watch the introduction video https://www.youtube.com/watch?v=0GcEqML8nys.
+
 This is a simple CasperJS script for syncing warning counts of checkstyle and pmd warnings for given two jenkins jobs.
 
 Useful if you have two different jobs for Master and PR's of a repository.
